@@ -1,6 +1,10 @@
-# Welcome to Atlas Quiz App 👋
+# Atlas Quiz App 👋
 <img width="260" height="530" alt="screenshot1" src="https://github.com/user-attachments/assets/56934916-ad41-4e57-aa99-ffd0c920ad81" />
+
 <img width="260" height="530" alt="screenshot3" src="https://github.com/user-attachments/assets/38f587d0-4b4c-4654-8f90-86311698ae3d" />
+
+<img width="260" height="530" alt="scholar badge" src="https://github.com/user-attachments/assets/4152fc1b-fa76-4736-acee-683d9dcdae74" />
+
 
 
    ```bash
