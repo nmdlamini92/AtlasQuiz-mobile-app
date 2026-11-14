@@ -7,6 +7,8 @@
 
 
 
+
+
    ```bash
    npx expo start
    ```
