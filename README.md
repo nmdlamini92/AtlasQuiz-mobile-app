@@ -1,17 +1,5 @@
 # Welcome to Atlas Quiz App 👋
-
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app) on Visual Studio Code.
-
-## Get started
-
-1. Install dependencies
-
-   ```bash
-   npm install
-   ```
-
-2. Start the app
-
+<img width="360" height="800" alt="Rightly answered" src="https://github.com/user-attachments/assets/5cee5da9-f992-40b9-9f54-80da50ebbe16" />
    ```bash
    npx expo start
    ```
