@@ -3,7 +3,7 @@
 
 <img width="260" height="530" alt="screenshot3" src="https://github.com/user-attachments/assets/38f587d0-4b4c-4654-8f90-86311698ae3d" />
 
-<img width="360" height="663" alt="screenshot4" src="https://github.com/user-attachments/assets/dd778b1c-b341-4201-83a8-5acb84fcb6b5" />
+<img width="260" height="530" alt="screenshot4" src="https://github.com/user-attachments/assets/dd778b1c-b341-4201-83a8-5acb84fcb6b5" />
 
 
    ```bash
