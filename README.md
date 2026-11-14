@@ -6,6 +6,7 @@
 <img width="260" height="530" alt="screenshot4" src="https://github.com/user-attachments/assets/dd778b1c-b341-4201-83a8-5acb84fcb6b5" />
 
 
+
    ```bash
    npx expo start
    ```
