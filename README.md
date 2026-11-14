@@ -1,5 +1,6 @@
 # Welcome to Atlas Quiz App 👋
-<img width="360" height="800" alt="Rightly answered" src="https://github.com/user-attachments/assets/5cee5da9-f992-40b9-9f54-80da50ebbe16" />
+<img width="250" height="550" alt="screenshot1" src="https://github.com/user-attachments/assets/56934916-ad41-4e57-aa99-ffd0c920ad81" />
+
    ```bash
    npx expo start
    ```
